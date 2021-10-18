@@ -1,0 +1,13 @@
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\bin\Debug\netcoreapp3.1\DictionaryDataStructure.exe
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\bin\Debug\netcoreapp3.1\DictionaryDataStructure.deps.json
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\bin\Debug\netcoreapp3.1\DictionaryDataStructure.runtimeconfig.json
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\bin\Debug\netcoreapp3.1\DictionaryDataStructure.runtimeconfig.dev.json
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\bin\Debug\netcoreapp3.1\DictionaryDataStructure.dll
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\bin\Debug\netcoreapp3.1\DictionaryDataStructure.pdb
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\obj\Debug\netcoreapp3.1\DictionaryDataStructure.csprojAssemblyReference.cache
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\obj\Debug\netcoreapp3.1\DictionaryDataStructure.AssemblyInfoInputs.cache
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\obj\Debug\netcoreapp3.1\DictionaryDataStructure.AssemblyInfo.cs
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\obj\Debug\netcoreapp3.1\DictionaryDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\obj\Debug\netcoreapp3.1\DictionaryDataStructure.dll
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\obj\Debug\netcoreapp3.1\DictionaryDataStructure.pdb
+C:\Users\Rayhaan\source\repos\DictionaryDataStructure\DictionaryDataStructure\obj\Debug\netcoreapp3.1\DictionaryDataStructure.genruntimeconfig.cache
